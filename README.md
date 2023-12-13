@@ -6,11 +6,11 @@ Desenvolvido com o objetivo de facilitar o controle e a manipulação de dados d
 
 #### Principais funcionalidades:
 
-- Cadastro de clientes: adicione novos clientes com informações detalhadas.
-- Atualização de clientes: altere informações existentes de clientes já cadastrados.
-- Remoção de clientes: exclua registros de clientes do sistema.
-- Listagem de todos os clientes: visualize todos os clientes cadastrados de forma organizada.
-- Visualização individual de clientes: veja detalhes específicos de cada cliente.
+- Cadastro de clientes: adicione novos clientes com informações detalhadas, como: nome, cpf, endereço, cep, cidade e estado;
+- Atualização de clientes: altere informações existentes de clientes já cadastrados;
+- Remoção de clientes: exclua registros de clientes do sistema;
+- Listagem de todos os clientes: visualize todos os clientes cadastrados de forma organizada;
+- Visualização individual de clientes: veja detalhes específicos de cada cliente;
 - Gestão de produtos: capacidade de adicionar novos produtos ao sistema.
 
 #### Observações:
