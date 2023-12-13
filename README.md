@@ -4,6 +4,11 @@ Este projeto é uma aplicação simples voltada para a gestão de clientes e pro
 
 Desenvolvido com o objetivo de facilitar o controle e a manipulação de dados de clientes, oferece um conjunto de funcionalidades básicas de um CRUD para clientes, além de oferecer a capacidade de gerenciar produtos.
 
+#### Tecnologias utilizadas:
+
+- Linguagens: HTML e PHP;
+- Banco de Dados: MySQL.
+
 #### Principais funcionalidades:
 
 - Cadastro de clientes: adicione novos clientes com informações detalhadas, como: nome, cpf, endereço, cep, cidade e estado;
