@@ -1,6 +1,6 @@
 # crud-clientes-php
 
-Este projeto é uma aplicação simples voltada para a gestão de clientes e produtos. 
+Este projeto é uma aplicação simples voltada para a gestão de clientes e produtos.
 
 Desenvolvido com o objetivo de facilitar o controle e a manipulação de dados de clientes, oferece um conjunto de funcionalidades básicas de um CRUD para clientes, além de oferecer a capacidade de gerenciar produtos.
 
